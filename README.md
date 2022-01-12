@@ -1,6 +1,8 @@
 # Surface_Blasting_PyQt
 
 A small app to display in 2 and 3 dimensions the layout of the drillholes in a surface blasting site.
+
+Main script: PyBlastGraph
 ## Built with: 
 PyQt: a python plugin for Qt to create GUI.
 
